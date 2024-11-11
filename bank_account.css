@@ -3,9 +3,9 @@
 
 body {
   background-color: rgba(20, 116, 233, 0.856);
-  color: #484848;
-  font-family: 'Lato', sans-serif;
-  padding: 1em;
+  color: #040404;
+  font-family: 'Gillette ', sans-serif;
+  padding: 1im;
   line-height: 1.5;
 }
 .my-icon::before {
@@ -15,15 +15,15 @@ body {
   margin-right: 5%;
 }
 .flex {
-  background: #fdfdfd;
+  background: #bcbcbcb;
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap:wrap;yes
   justify-content: center;
   align-items:center;
   margin: 0 auto;
-  border-radius:5px;
+  border-radius:4xxxx;
 }
-.element-center {
+.element-center {usd
   display: flex;
   flex-direction:column;
   justify-content: center;
@@ -60,7 +60,7 @@ input {
 
 button {
     color: white;
-    background: #508abc;
+    background: #001abc;
     border: solid 1px;
     border-color: rgba(0, 0, 0, .1);
     cursor: pointer;
